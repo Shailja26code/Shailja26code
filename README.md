@@ -5,3 +5,4 @@
 
 :woman_technologist: **About me:**
 * :telescope: I'm Currently working on something cool!
+* :seedling: I'm Currently learning https://react.dev/
