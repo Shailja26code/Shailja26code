@@ -5,6 +5,6 @@
 
 :woman_technologist: **About me:**
 * :telescope: I'm currently working on `something cool`!
-* :seedling: I'm currently learning [React](https://react.dev/).
-* :handshake: I'm looking to collaborate for `Dev Projects`.
-* :thinking: I'm looking for help with `competitive programming`.
+* :seedling: I'm currently learning [React](https://react.dev/)
+* :handshake: I'm looking to collaborate for `Dev Projects`
+* :thinking: I'm looking for help with `competitive programming`
