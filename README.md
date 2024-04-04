@@ -39,7 +39,7 @@
 ## :pray: **Support Me:**
 <img alt="Buymeacoffe" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="60px" width="200px">
 
-## Activity Graph
+## :chart_with_upwards_trend: **Activity Graph**
 <p>
 <a href="#"><img alt="activitygraph" src="https://github-readme-activity-graph.vercel.app/graph?username=shailja26code&theme=github" height="80px" width="400px"> 
 </a>
