@@ -37,3 +37,4 @@
 </p>
     
 ## :pray: **Support Me:**
+<img alt="Buymeacoffe" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="60px" width="200px">
