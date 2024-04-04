@@ -41,6 +41,6 @@
 
 ## :chart_with_upwards_trend: **Activity Graph**
 <p>
-<a href="#"><img alt="activitygraph" src="https://github-readme-activity-graph.vercel.app/graph?username=shailja26code&theme=(cotton candy)" height="180px" width="900px"/>
+<a href="#"><img alt="activitygraph" src="https://github-readme-activity-graph.vercel.app/graph?username=shailja26code&theme=Default (cotton candy)" height="180px" width="900px"/>
 </a>
 </p>
