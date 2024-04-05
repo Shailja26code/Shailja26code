@@ -38,8 +38,8 @@
     
 ## :pray: **Support Me:**
 <p>
-<img alt="Buymeacoffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="60px" width="100px"/>
-<img alt="Sponore" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" height="60px" width="100px"/> 
+<img alt="Buymeacoffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40px" width="100px"/>
+<img alt="Sponore" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" height="40px" width="100px"/> 
 </p>
 
 ## :chart_with_upwards_trend: **Activity Graph**
