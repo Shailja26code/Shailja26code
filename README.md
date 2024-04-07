@@ -46,4 +46,5 @@
 <p>
 <a href="#"><img alt="activitygraph" src="https://github-readme-activity-graph.vercel.app/graph?username=shailja26code&theme=tokyo-night" height="180px" width="900px"/>
 </a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shailja26code&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
