@@ -7,7 +7,7 @@
 * :sassy_woman: All about me at **[My Website](https://shailja26code.github.io/MyPortfolio/)**
 * :telescope: I'm currently working on `something cool`! 
 * :seedling: I'm currently learning [React](https://react.dev/) 
-* :handshake: I'm looking to collaborate for `Devlopment Projects`
+* :handshake: I'm looking to collaborate for `Devlopment Projects` 
 * :thinking: I'm looking for help with `competitive programming`
 
 ## :hammer_and_wrench: **Technologies And Tools I Use:**
