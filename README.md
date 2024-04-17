@@ -10,7 +10,7 @@
 * :handshake: I'm looking to collaborate for `Devlopment Projects`
 * :thinking: I'm looking for help with `competitive programming`
 
-## :hammer_and_wrench: **Technologies And Tools I Use:**
+## :hammer_and_wrench: **Technologies And Tools I Use:** 
 
 <p>
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height ="25px"/>
